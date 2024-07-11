@@ -4,3 +4,4 @@ Task Completion Check: Another for loop iterates over lis, prompting the user to
 Break Condition: If the user inputs 10, the loop breaks, stopping further checks.
 Deleting Completed Tasks: If a valid index is entered, the corresponding task is removed from lis.
 Remaining Tasks Display: Finally, the remaining tasks in lis are printed.
+
